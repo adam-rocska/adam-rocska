@@ -1,5 +1,11 @@
 # Yo, I'm Adam! 👋
 
+Some of my stuff:
+
+| Project                                                                                                               | Description                                |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [**`@adam-rocska/markdown-typescript`**](https://github.com/adam-rocska/markdown-table-typescript?tab=readme-ov-file) | A markdown table generator for TypeScript. |
+
 <!--
 **adam-rocska/adam-rocska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
