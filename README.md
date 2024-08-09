@@ -2,9 +2,10 @@
 
 Some of my stuff:
 
-| Project                                                                                                               | Description                                |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [**`@adam-rocska/markdown-typescript`**](https://github.com/adam-rocska/markdown-table-typescript?tab=readme-ov-file) | A markdown table generator for TypeScript. |
+| Project                                                                                              | Description                                                        |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [**`@adam-rocska/markdown-typescript`**](https://github.com/adam-rocska/markdown-table-typescript)   | A markdown table generator for TypeScript.                         |
+| [**`@adam-rocska/font-anatomy-typescript`**](https://github.com/adam-rocska/font-anatomy-typescript) | A collection of tools for working with font anatomy in Typescript. |
 
 <!--
 **adam-rocska/adam-rocska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
