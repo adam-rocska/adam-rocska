@@ -27,6 +27,7 @@ Some of my stuff:
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [**`@adam-rocska/markdown-typescript`**](https://github.com/adam-rocska/markdown-table-typescript)   | A markdown table generator for TypeScript.                         |
 | [**`@adam-rocska/font-anatomy-typescript`**](https://github.com/adam-rocska/font-anatomy-typescript) | A collection of tools for working with font anatomy in Typescript. |
+| [**`@adam-rocska/invertible-typescript`**](https://github.com/adam-rocska/invertible-typescript)     | A library for working with invertible functions in TypeScript.     |
 
 <!--
 // Incoming after I open-sourced the last bits of the design system.
