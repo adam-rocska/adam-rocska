@@ -33,7 +33,6 @@ Some of my stuff I or others actively use.
 
 | Project                                                                                                     | Description                                                           |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [**`@adam-rocska/VersionInfo.swift`**](https://github.com/adam-rocska/VersionInfo.swift)                    | A Swift package for working with version information.                 |
 | [**`@adam-rocska/markdown-table`**](https://github.com/adam-rocska/markdown-table-typescript)               | A markdown table generator for TypeScript.                            |
 | [**`@adam-rocska/font-anatomy`**](https://github.com/adam-rocska/font-anatomy-typescript)                   | A collection of tools for working with font anatomy in Typescript.    |
 | [**`@adam-rocska/invertible`**](https://github.com/adam-rocska/invertible-typescript)                       | A library for working with invertible functions in TypeScript.        |
