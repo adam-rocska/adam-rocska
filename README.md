@@ -39,6 +39,8 @@ Some of my stuff I or others actively use.
 | [**`@adam-rocska/ts-codec`**](https://github.com/adam-rocska/ts-codec)                                      | Bidirectional coding utility for TypeScript                           |
 | [**`@adam-rocska/use-task-queue`**](https://github.com/adam-rocska/use-task-queue)                          | A React hook for managing async task queues for a fast reactive UI.   |
 | [**`@adam-rocska/units-and-measurement`**](https://github.com/adam-rocska/units-and-measurement-typescript) | A modular TypeScript library for working with units and measurements. |
+| [**`@adam-rocska/units-and-measurement`**](https://github.com/adam-rocska/until-typescript)                 | A utility to `await until` something happens.                         |
+| [**`@adam-rocska/units-and-measurement`**](https://github.com/adam-rocska/timeout-typescript)               | A utility to `await timeout` a few seconds.                           |
 
 <!--
 // Incoming after I open-sourced the last bits of the design system.
