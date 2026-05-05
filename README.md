@@ -42,6 +42,12 @@ Some of my stuff I or others actively use.
 | [**`@adam-rocska/until`**](https://github.com/adam-rocska/until-typescript)                 | A utility to `await until` something happens.                         |
 | [**`@adam-rocska/timeout`**](https://github.com/adam-rocska/timeout-typescript)               | A utility to `await timeout` a few seconds.                           |
 
+### 🩵 Typst
+
+| Project                                                                                  | Typst Universe                                                | Description                                         |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------- |
+| [**`@@preview/arnoptical`**](https://github.com/adam-rocska/arno-pro-optical-text-typst) | [`arnoptical`](https://typst.app/universe/package/arnoptical) | Typst package for Arno Pro optical-size text faces. |
+
 <!--
 // Incoming after I open-sourced the last bits of the design system.
 📚 Tech Blog
