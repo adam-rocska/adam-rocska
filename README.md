@@ -25,10 +25,10 @@ Some of my stuff I or others actively use.
 
 ### 🧡 Swift
 
-| Project                                                                             | Description                                                                                                                                                    |
-| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**`@adam-rocska/VersionInfo`**](https://github.com/adam-rocska/VersionInfo.swift)  | SwiftPM plugin and library that compiles Git commit, branch, tag, and semantic version information directly into Swift targets with no runtime Git dependency. |
-| [**`@adam-rocska/FontAnatomy`**](https://github.com/adam-rocska/font-anatomy-swift) | A collection of tools for working with font anatomy in Swift.                                                                                                  |
+| Project                                                                             | Description                                                                                                        |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [**`@adam-rocska/VersionInfo`**](https://github.com/adam-rocska/VersionInfo.swift)  | Build-time Git and SemVer metadata for Swift targets, compiled in as plain Swift with zero runtime Git dependency. |
+| [**`@adam-rocska/FontAnatomy`**](https://github.com/adam-rocska/font-anatomy-swift) | A collection of tools for working with font anatomy in Swift.                                                      |
 
 ### 🟦 TypeScript
 
